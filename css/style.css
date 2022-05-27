@@ -21,6 +21,7 @@ html {
 }
 
 .btn {
+	display: inline-block;
 	padding: 15px 16px;
 	font-size: 12px;
 	text-transform: uppercase;
@@ -63,4 +64,27 @@ html {
 
 .header-btn {
 	margin-left: 80px;
+}
+
+/* section hero */
+
+.hero-container {
+	padding-top: 125px;
+	padding-bottom: 130px;
+}
+
+.hero-content {
+	max-width: 45%;
+}
+
+.section-hero-heading {
+	margin-bottom: 20px;
+}
+
+.section-hero-description {
+	margin-bottom: 30px;
+}
+
+.section-hero-btn-description {
+	margin-top: 10px;
 }
