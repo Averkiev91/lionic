@@ -1,5 +1,6 @@
 # Lionic
  Main Page Lionic
+ http://n92604gi.beget.tech/Lionic/
 
 Это тренировочный вариант посадочной страницы Lionic
 
